@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "massivler", "massivler\massivler.csproj", "{DB99FC0A-080B-4964-ADDC-17074EFF1B41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB99FC0A-080B-4964-ADDC-17074EFF1B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB99FC0A-080B-4964-ADDC-17074EFF1B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB99FC0A-080B-4964-ADDC-17074EFF1B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB99FC0A-080B-4964-ADDC-17074EFF1B41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B67D166-FAB2-43C9-8E05-E8A5690BEC55}
+	EndGlobalSection
+EndGlobal
